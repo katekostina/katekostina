@@ -14,18 +14,18 @@
 
 <img align="right" width="300px" src="https://github.com/katekostina/katekostina/blob/main/giphy.gif">
 
-
 🌱&nbsp;&nbsp;&nbsp;I am a beginner developer.<br />
-🔮&nbsp;&nbsp;&nbsp;Currently learning and improving in **JavaScript, ReactJS**<br />
+💻&nbsp;&nbsp;&nbsp;Currently learning and improving in **JavaScript, ReactJS**<br />
 👯&nbsp;&nbsp;&nbsp;I'm looking for a job where I can grow and contribute to something good or beautiful.<br />
-📫&nbsp;&nbsp;&nbsp;Reach me: katekostina@yahoo.com or via <a href="https://t.me/cellardoor"><img height="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />&nbsp;telegram</a><br />
+✉️&nbsp;&nbsp;&nbsp;Reach me: katekostina@yahoo.com or via <a href="https://t.me/cellardoor"><img height="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />&nbsp;telegram</a><br />
 
 **Personal stuff about me**<br />
-🤔&nbsp;&nbsp;&nbsp;Always loved math, logic, coding *but still i'm a couch potato*. <br />
+🖤&nbsp;&nbsp;&nbsp;Always loved math, logic, coding *but still i'm a couch potato*. <br />
 🌲&nbsp;&nbsp;&nbsp;I also like forest, just lie in a clearing and do nothing.<br />
 🔥&nbsp;&nbsp;&nbsp;Naruto taught me to never give up.<br />
 💬&nbsp;&nbsp;&nbsp;Ask me about my cat, she is great.<br />
 
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=50,ccc8a8,c4a8cc&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
 
 ### Languages
 <p>
@@ -42,6 +42,8 @@
 <a href="https://www.postman.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postman.svg" /></a>&nbsp;&nbsp;
 <a href="https://webpack.js.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/webpack.svg" /></a>&nbsp;&nbsp;
 </p>
+  
+<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,c4a8cc,364E66&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
 
 ### Technology being learned
 <p>
@@ -54,13 +56,3 @@
 ### Currently learning at
 <a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>
 <a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/udemy.svg" /></a>
-
-<a href="#">
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,0366D6,61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
-<img width="45%" height="160px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
-</a>
-
-
-
-  
-
