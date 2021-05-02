@@ -61,10 +61,10 @@
 <a href="https://www.goodreads.com/review/list/118928466?shelf=computer-science-and-coding "><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/goodreads.svg" /></a>oodreads — list of books to read
 
 
-
-<img width="50%" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,0366D6,61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2" />
-<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
-
+<a href="#">
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,0366D6,61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
+<img width="42%" height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
+</a>
 
 
 
