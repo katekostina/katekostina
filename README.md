@@ -37,39 +37,33 @@
 
 ### Tools
 <p>
-  <a href="https://git-scm.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg" /></a>&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postman.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/webpack.svg" />&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg" /</a>&nbsp;&nbsp;
+<a href="https://www.postman.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postman.svg" /></a>&nbsp;&nbsp;
+<a href="https://webpack.js.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/webpack.svg" /></a>&nbsp;&nbsp;
 </p>
 
 ### Technology being learned
 <p>
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" />&nbsp;&nbsp;
-  <img height="20" src"https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg" />&nbsp;&nbsp;
+<a href="https://reactjs.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.typescriptlang.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/typescript.svg" /></a>&nbsp;&nbsp;
+<a href="https://vuejs.org/"><img height="20" src"https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/vue-dot-js.svg" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" /></a>&nbsp;&nbsp;
 </p>
 
 
 ### Currently learning at
 <a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>
-<a href="https://github.com/azat-io/you-dont-know-js-ru"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" /></a>
 <a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/udemy.svg" /></a>
+<a href="https://github.com/azat-io/you-dont-know-js-ru"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/github.svg" /></a>
 <br />
 <a href="https://www.goodreads.com/review/list/118928466?shelf=computer-science-and-coding "><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/goodreads.svg" /></a>oodreads — list of books to read
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true" alt="Kate Kostina" />
-<br />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&hide_title=1" />
-<br />
-
-![Activity Graph](https://activity-graph.herokuapp.com/graph?username=katekostina&theme=github)
-
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,0366D6,61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2" />
+<img width="42%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=61DBFB&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=jupyter%20notebook&langs_count=5" />
 
 
 
