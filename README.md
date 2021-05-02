@@ -40,7 +40,7 @@
 <a href="https://webpack.js.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/webpack.svg" /></a>&nbsp;&nbsp;
 </p>
   
-<img width="400px" align="right" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,c4a8cc,364E66&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
+<img width="500px" align="right" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,c4a8cc,364E66&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
 
 ### Technology being learned
 <p>
@@ -48,7 +48,6 @@
 <a href="https://nodejs.org/en/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg" /></a>&nbsp;&nbsp;
 <a href="https://www.mongodb.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" /></a>&nbsp;&nbsp;
 </p>
-
 
 ### Currently learning at
 <a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
