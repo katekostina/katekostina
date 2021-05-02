@@ -51,5 +51,5 @@
 
 
 ### Currently learning at
-<a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>
-<a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/udemy.svg" /></a>
+<a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
+<a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/udemy.svg" /></a>&nbsp;&nbsp;
