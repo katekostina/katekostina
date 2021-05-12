@@ -26,8 +26,7 @@
 
 ### Languages
 <p>
-  <img height="20" src="https://github.com/katekostina/katekostina/blob/main/js10.png" />&nbsp;&nbsp;
-  <img height="20" src="https://github.com/katekostina/katekostina/blob/main/js100.png" />&nbsp;&nbsp;
+  <img height="20" src="./js.svg">
   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" />&nbsp;&nbsp;
   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg" />&nbsp;&nbsp;
   <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg" />&nbsp;&nbsp;
