@@ -1,9 +1,10 @@
 ### Hello I'm Kate
 <a href="https://leetcode.com/katierock/">
-  <img align="left" alt="Leetcode" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/leetcode.svg" />
+  <img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" />
+
 </a>
 <a href="https://www.linkedin.com/in/kate-kostina-48b596208">
-  <img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/linkedin.svg" />
+  <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 
 <br />
@@ -26,30 +27,29 @@
 
 ### Languages
 <p>
-  <img height="20" src="./js.svg">
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/javascript.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/html5.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/css3.svg" />&nbsp;&nbsp;
-  <img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/python.svg" />&nbsp;&nbsp;
+  <img height="20" src="./js.svg">&nbsp;&nbsp;
+  <img height="20" src="./html5.svg" />&nbsp;&nbsp;
+  <img height="20" src="./css3.svg" />&nbsp;&nbsp;
+  <img height="20" src="./python.svg" />&nbsp;&nbsp;
 </p>
 
 ### Tools
 <p>
-<a href="https://git-scm.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/git.svg" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/visualstudiocode.svg" /</a>&nbsp;&nbsp;
-<a href="https://www.postman.com/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/postman.svg" /></a>&nbsp;&nbsp;
-<a href="https://webpack.js.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/webpack.svg" /></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/"><img height="20" src="./git.svg" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/"><img height="20" src="./visualstudiocode.svg" /</a>&nbsp;&nbsp;
+<a href="https://www.postman.com/"><img height="20" src="./postman.svg" /></a>&nbsp;&nbsp;
+<a href="https://webpack.js.org/"><img height="20" src="./webpack.svg" /></a>&nbsp;&nbsp;
 </p>
   
 <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,c4a8cc,364E66&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
 
 ### Technology being learned
 <p>
-<a href="https://reactjs.org/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/react.svg" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/node-dot-js.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/mongodb.svg" /></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/"><img height="20" src="./react.svg" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/"><img height="20" src="./node-dot-js.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com"><img height="20" src="./mongodb.svg" /></a>&nbsp;&nbsp;
 </p>
 
 ### Currently learning at
 <a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
-<a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/udemy.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="./udemy.svg" /></a>&nbsp;&nbsp;
