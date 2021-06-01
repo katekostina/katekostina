@@ -1,5 +1,5 @@
 ### Hello I'm Kate
-<a href="https://www.linkedin.com/in/kate-kostina-48b596208">
+<a href="https://www.linkedin.com/in/kate-kostina-48b596208" target="_blank">
   <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 
@@ -31,27 +31,27 @@
 
 ### Tools
 <p>
-<a href="https://git-scm.com/"><img height="20" src="./git.svg" /></a>&nbsp;&nbsp;
-<a href="https://code.visualstudio.com/"><img height="20" src="./visualstudiocode.svg" /</a>&nbsp;&nbsp;
-<a href="https://www.postman.com/"><img height="20" src="./postman.svg" /></a>&nbsp;&nbsp;
-<a href="https://webpack.js.org/"><img height="20" src="./webpack.svg" /></a>&nbsp;&nbsp;
+<a href="https://git-scm.com/" target="_blank"><img height="20" src="./git.svg" /></a>&nbsp;&nbsp;
+<a href="https://code.visualstudio.com/" target="_blank"><img height="20" src="./visualstudiocode.svg" /</a>&nbsp;&nbsp;
+<a href="https://www.postman.com/" target="_blank"><img height="20" src="./postman.svg" /></a>&nbsp;&nbsp;
+<a href="https://webpack.js.org/" target="_blank"><img height="20" src="./webpack.svg" /></a>&nbsp;&nbsp;
 </p>
   
 <img width="500px" align="right" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,c4a8cc,364E66&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
 
 ### Technology being learned
 <p>
-<a href="https://reactjs.org/"><img height="20" src="./react.svg" /></a>&nbsp;&nbsp;
-<a href="https://nodejs.org/en/"><img height="20" src="./node-dot-js.svg" /></a>&nbsp;&nbsp;
-<a href="https://www.mongodb.com"><img height="20" src="./mongodb.svg" /></a>&nbsp;&nbsp;
+<a href="https://reactjs.org/" target="_blank"><img height="20" src="./react.svg" /></a>&nbsp;&nbsp;
+<a href="https://nodejs.org/en/" target="_blank"><img height="20" src="./node-dot-js.svg" /></a>&nbsp;&nbsp;
+<a href="https://www.mongodb.com" target="_blank"><img height="20" src="./mongodb.svg" /></a>&nbsp;&nbsp;
 </p>
 
 ### Training for fun at
 <p>
-<a href='https://www.codewars.com/users/katekostina'><img align="left" alt="Codewars" width="22px" src="./codewars.svg" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/katierock/"><img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" /></a>&nbsp;&nbsp;
+<a href='https://www.codewars.com/users/katekostina' target="_blank"><img align="left" alt="Codewars" width="22px" src="./codewars.svg" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/katierock/" target="_blank"><img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" /></a>&nbsp;&nbsp;
 </p>
 
 ### Learning at
-<a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
-<a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="./udemy.svg" /></a>&nbsp;&nbsp;
+<a href="https://praktikum.yandex.ru/profile/web/" target="_blank"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
+<a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580" target="_blank"><img height="20" src="./udemy.svg" /></a>&nbsp;&nbsp;
