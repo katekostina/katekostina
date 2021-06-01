@@ -1,10 +1,14 @@
 ### Hello I'm Kate
-<a href="https://leetcode.com/katierock/">
-  <img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" />
-
-</a>
 <a href="https://www.linkedin.com/in/kate-kostina-48b596208">
   <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
+</a>
+
+<a href='https://www.codewars.com/users/katekostina'>
+  <img align="left" alt="Codewars" width="22px" src="./codewars.svg" />
+</a>
+
+<a href="https://leetcode.com/katierock/">
+  <img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" />
 </a>
 
 <br />
