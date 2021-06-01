@@ -1,5 +1,5 @@
 ### Hello I'm Kate
-<a href="https://www.linkedin.com/in/kate-kostina-48b596208" target="_blank">
+<a href="#" onclick='window.open("https://www.linkedin.com/in/kate-kostina-48b596208");return false;'>
   <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 
