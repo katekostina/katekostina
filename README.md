@@ -3,14 +3,6 @@
   <img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />
 </a>
 
-<a href='https://www.codewars.com/users/katekostina'>
-  <img align="left" alt="Codewars" width="22px" src="./codewars.svg" />
-</a>
-
-<a href="https://leetcode.com/katierock/">
-  <img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" />
-</a>
-
 <br />
 <br />
 
@@ -54,6 +46,12 @@
 <a href="https://www.mongodb.com"><img height="20" src="./mongodb.svg" /></a>&nbsp;&nbsp;
 </p>
 
-### Currently learning at
+### Training for fun at
+<p>
+<a href='https://www.codewars.com/users/katekostina'><img align="left" alt="Codewars" width="22px" src="./codewars.svg" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/katierock/"><img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" /></a>&nbsp;&nbsp;
+</p>
+
+### Learning at
 <a href="https://praktikum.yandex.ru/profile/web/"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
 <a href="https://www.udemy.com/course/understand-javascript/learn/lecture/2280580"><img height="20" src="./udemy.svg" /></a>&nbsp;&nbsp;
