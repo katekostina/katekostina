@@ -19,7 +19,7 @@
 🔥&nbsp;&nbsp;&nbsp;Naruto taught me to never give up.<br />
 💬&nbsp;&nbsp;&nbsp;Ask me about my cat, she is great.<br />
 
-<img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=50,ccc8a8,c4a8cc&title_color=fff&text_color=fff&icon_color=fff" />
+<img width="300px" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=katekostina&layout=compact&count_private=true&&hide_border=true&bg_color=50,ECE0A2,c4a8cc&title_color=fff&text_color=fff&icon_color=fff" />
 
 ### Languages
 <p>
