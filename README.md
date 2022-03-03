@@ -8,8 +8,8 @@
 
 <img align="right" width="300px" src="https://github.com/katekostina/katekostina/blob/main/giphy.gif">
 
-🌱&nbsp;&nbsp;&nbsp;I am a beginner developer.<br />
-💻&nbsp;&nbsp;&nbsp;Currently learning and improving in **JavaScript, ReactJS**<br />
+🌱&nbsp;&nbsp;&nbsp;I am a frontend developer.<br />
+💻&nbsp;&nbsp;&nbsp;My main areas are **JavaScript, ReactJS**<br />
 👯&nbsp;&nbsp;&nbsp;I'm looking for a job where I can grow and contribute to something good or beautiful.<br />
 ✉️&nbsp;&nbsp;&nbsp;Reach me: katekostina@yahoo.com or via <a href="https://t.me/cellardoor"><img height="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />&nbsp;telegram</a><br />
 
