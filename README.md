@@ -14,7 +14,7 @@
 ✉️&nbsp;&nbsp;&nbsp;Reach me: katekostina@yahoo.com or via <a href="https://t.me/cellardoor"><img height="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />&nbsp;telegram</a><br />
 
 **Personal stuff about me**<br />
-🖤&nbsp;&nbsp;&nbsp;I've always loved math, logic, coding, *magic*. <br />
+🖤&nbsp;&nbsp;&nbsp;I like math, coding, *magic*. <br />
 🌲&nbsp;&nbsp;&nbsp;Also like hiking in the forest and mountains.<br />
 🔥&nbsp;&nbsp;&nbsp;Naruto taught me to never give up.<br />
 💬&nbsp;&nbsp;&nbsp;Ask me about my cat, she is great.<br />
