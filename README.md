@@ -1,12 +1,11 @@
-***
-
 ### Hello, I'm Katia 👋🏻
-#### 👩🏻‍💻 &nbsp; front-end developer
-#### 🌱 &nbsp; originally from Kharkiv, Ukraine 🇺🇦 
-#### 📍 &nbsp; currently based in Tbilisi, Georgia 🇬🇪
-<a href="https://www.linkedin.com/in/katekostina/" target='_blank'><img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />my linkedin</a>
-
----
+> 👩🏻‍💻 &nbsp; front-end developer <br />
+> 🌱 &nbsp; originally from Kharkiv, Ukraine 🇺🇦 <br />
+> 📍 &nbsp; currently based in Tbilisi, Georgia 🇬🇪 <br />
+<br />
+<a href="https://www.linkedin.com/in/katekostina/" target='_blank'><img align="left" alt="LinkedIn" width="22px" src="./linkedin.svg" />my linkedin</a><br />
+<br />
+<br />
 
 **About me as a developer:**
 <br />
@@ -68,5 +67,3 @@
 ###### Learning at
 <a href="https://praktikum.yandex.ru" target="_blank"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
 <a href="https://www.udemy.com" target="_blank"><img height="20" src="./udemy.svg" /></a>&nbsp;&nbsp;
-
----
