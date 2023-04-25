@@ -21,7 +21,7 @@
 **About me as a person:**
 <br />
 <br />
-🖤 &nbsp;&nbsp; I am a problem solver with love for aesthetics. <br />
+🖤 &nbsp;&nbsp; I am a problem solver with a love for aesthetics. <br />
 🧠 &nbsp;&nbsp; Logic, patience, communication, and attention to detail are my underlying strengths.<br />
 💡 &nbsp;&nbsp; I am into: planning, building structures, thinking in systems, puzzles, and learning new technologies.<br />
 🌲 &nbsp;&nbsp; To recharge I prefer hiking in the forest or skiing.<br />
@@ -58,12 +58,7 @@
 </p>
 <img width="350px" align="right" src="https://github-readme-stats.vercel.app/api?username=katekostina&count_private=true&show_icons=true&hide_border=true&bg_color=50,c4a8cc,364E66&title_color=fff&text_color=fff&icon_color=f2f2f2&hide=issues" />
 
-###### Training for fun at
-<p>
-<a href='https://www.codewars.com/users/katekostina' target="_blank"><img align="left" alt="Codewars" width="22px" src="./codewars.svg" /></a>&nbsp;&nbsp;
-<a href="https://leetcode.com/katierock/" target="_blank"><img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" /></a>&nbsp;&nbsp;
-</p>
-
 ###### Learning at
-<a href="https://praktikum.yandex.ru" target="_blank"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
+<a href="https://leetcode.com/katierock/" target="_blank"><img align="left" alt="Leetcode" width="22px" src="./leetcode.svg" /></a>&nbsp;&nbsp;
+<a href="[https://praktikum.yandex.ru](https://practicum.com/)" target="_blank"><img height="20" src="https://github.com/katekostina/katekostina/blob/main/praktikum.png" /></a>&nbsp;&nbsp;
 <a href="https://www.udemy.com" target="_blank"><img height="20" src="./udemy.svg" /></a>&nbsp;&nbsp;
