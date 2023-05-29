@@ -14,7 +14,7 @@
 💻&nbsp;&nbsp;&nbsp;Currently work as a front-end developer on React.js.<br />
 📚&nbsp;&nbsp;&nbsp;I have extensive knowledge and experience in JavaScript and React.js, and also coded for fun in Python.<br />
 🏢&nbsp;&nbsp;&nbsp;I am open to job opportunities where I can grow and contribute to something good or beautiful (better both).<br />
-✉️&nbsp;&nbsp;&nbsp;Reach me: <a href="https://www.linkedin.com/in/katekostina/" target='_blank'>my linkedin</a>, katekostina@yahoo.com or via <a href="https://t.me/maslovkusne"><img height="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />&nbsp;telegram</a><br />
+✉️&nbsp;&nbsp;&nbsp;Reach me: <a href="https://www.linkedin.com/in/katekostina/" target='_blank'>my linkedin</a>, katekostina@yahoo.com or via <a href="https://t.me/katia_dev"><img height="14px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.12.2/icons/telegram.svg" />&nbsp;telegram</a><br />
 <br />
 <br />
 
